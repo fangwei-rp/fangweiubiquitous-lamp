@@ -1,0 +1,11 @@
+{
+  "appId": "com.fangw.roleplay",
+  "appName": "仿微roleplay",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
